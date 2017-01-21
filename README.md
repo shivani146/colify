@@ -22,7 +22,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+cust1=Calculate.new(2,4)
+cust1.add
+or
+cust1.sub
+or
+cust1.mul
+or
+cust1.div
 
 ## Development
 
